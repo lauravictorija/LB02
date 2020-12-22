@@ -1,0 +1,11 @@
+{
+  "company": [{
+    "id": 101, "name": "Hofladen", "contact": "Max Muster", "phone": "044 844 32 09", "url": "www.schiblis-hofladen.ch", "email": "info@schiblis-hofladen.ch",
+    "profession": "Bauer"
+  }, {
+    "id": 102, "name": "MGB", "contact": "Rudolf Rüssel", "phone": "079 655 58 86", "url": "www.mgb.ch", "email": "info@mgb.ch",
+    "profession": "CEO"
+  }, {
+    "id": 103, "name": "Christ", "contact": "Christian Christ", "phone": "076 236 59 58", "url": "www.christ.ch", "email": "info@christ.ch",
+    "profession": "Juwelier"
+  }]}
